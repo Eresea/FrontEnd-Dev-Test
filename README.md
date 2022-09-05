@@ -6,7 +6,7 @@ Be sure to read all of the instructions carefully and follow the guidelines belo
 
 ## Goal
 
-Build a small Angular.js app that uses the provided json-server. The application is meant to display a unique web page acting as a form to register DualSun’s installations made by third party installers.
+Build a small Angular app that uses the provided json-server. The application is meant to display a unique web page acting as a form to register DualSun’s installations made by third party installers.
 
 ## Context
 
