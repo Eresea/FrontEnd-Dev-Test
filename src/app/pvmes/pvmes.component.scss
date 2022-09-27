@@ -1,0 +1,57 @@
+div {
+    text-align: center;
+}
+
+.pvmesForm {
+    padding: 0 20%;
+}
+
+.formComponent {
+    padding: 5%;
+    justify-items: center;
+    margin: 2%;
+}
+
+.detailSection {
+    border: solid 2px;
+    border-color: gray;
+}
+
+hr {
+    background-color: gray;
+    height: 1px;
+    width: 100%;
+}
+
+.zipCodeInput {
+    width: 300px;
+}
+
+.dateInput {
+    width: 300px;
+}
+
+.addressInput {
+    width: 600px;
+}
+
+.solarPanelContainer {
+    justify-items: center;
+    border: solid 2px;
+    border-color: gray;
+    padding: 10px;
+}
+
+.alertList {
+    z-index: 10;
+    position: fixed;
+    top: 10px;
+    width: 100%;
+  height:50px;
+  left:50%;
+  transform:translateX(-50%);
+}
+
+.form-error {
+    color: red;
+}
